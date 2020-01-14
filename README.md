@@ -14,7 +14,27 @@
 
 ## Code
 
-# Additional Exercises
+**HopBrod.py**
+
+```
+presented on Day2 -- Hopfield-Brody network using INVL ArtificialCell or HH cell
+
+uses IClamp for HH cell rate randomization
+
+```
+
+**invlfire.mod**
+
+`NMODL source file for INVL ArtificialCell used by HopBrod.py`
+
+**HopBrodNetPyNE.py**
+
+```
+shortened and simplified version of netpyne/doc/source/code/tut7.py
+uses HH with NetStims for HH cell rate randomization
+```
+
+## Additional Exercises
 
 - `Accessing and making github repos`
 
