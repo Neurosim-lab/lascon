@@ -4,7 +4,9 @@
 
 # Contents of this repo:
 
-## Talks
+<!-- github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
+
+## [Talk pdfs](https://drive.google.com/drive/folders/1UCkabjqhbo3ys-k1zwEDTgQxmqYeqveP?usp=sharing)
 
 - Day1Talk-NeuralCircuits.pdf `General introduction to computational neuroscience + examples of neural circuits`
 
@@ -42,5 +44,6 @@ uses HH with NetStims for HH cell rate randomization
 
     set up a repo for your LASCON project
 
-    access github repos for NetPyNE https://github.com/Neurosim-lab/netpyne and NEURON https://github.com/neuronsimulator/nrn
+    access github repos for [NetPyNE](https://github.com/Neurosim-lab/netpyne) and [NEURON](https://github.com/neuronsimulator/nrn)
+    
 
