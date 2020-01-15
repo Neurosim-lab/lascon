@@ -6,7 +6,7 @@
 
 <!-- github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
 
-## [Talk pdfs](https://drive.google.com/drive/folders/1UCkabjqhbo3ys-k1zwEDTgQxmqYeqveP?usp=sharing)
+## [Talk pdfs](https://drive.google.com/drive/folders/1U8UJvg4OIHsrzWqTatu4ByoV7uwNrY_n)
 
 - Day1Talk-NeuralCircuits.pdf `General introduction to computational neuroscience + examples of neural circuits`
 
