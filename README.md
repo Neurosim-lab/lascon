@@ -14,15 +14,20 @@
 
 - Day3Talk-netpyne.pdf `Introduction to netpyne`
 
+- Day4Talk-MPI.pdf `HPC, MPI and ParallelContext`
+
 ## Code
+
+**test0.py** `simple test of mpi` **mpiexec -n 4 --oversubscribe nrniv -python -mpi test0.py**
 
 **HopBrod.py**
 
 ```
-presented on Day2 -- Hopfield-Brody network using INVL ArtificialCell or HH cell
+presented on Day 2,4 -- Hopfield-Brody network using INVL ArtificialCell or HH cell (with useHHCell=True)
 
 uses IClamp for HH cell rate randomization
 
+mpirun() to run under MPI (using HHcell only)
 ```
 
 **invlfire.mod**
